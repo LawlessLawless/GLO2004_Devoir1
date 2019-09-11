@@ -1,0 +1,8 @@
+QualiteDevoir\domain\FIFOSorter.class
+QualiteDevoir\domain\Clinic.class
+QualiteDevoir\domain\enums\TriageType.class
+QualiteDevoir\domain\Patient.class
+QualiteDevoir\domain\enums\VisibleSymptom.class
+QualiteDevoir\domain\GravitySorter.class
+QualiteDevoir\api\App.class
+QualiteDevoir\domain\PatientSorter.class
